@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Testing Github Page
 
-I'm glad you are here. I plan to talk about ...
+Time to study and improve myself
